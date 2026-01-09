@@ -246,7 +246,7 @@ class VideoLooper:
                     '-f', 'null', '-'
                 ]
 
-                result = subprocess.run(cmd_ssim, capture_output=True, text=True, stderr=subprocess.STDOUT)
+                result = subprocess.run(cmd_ssim, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)
 
                 # Parse SSIM from output
                 for line in result.stdout.split('\n'):
