@@ -1,0 +1,31 @@
+# YouTube API и аутентификация
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.108.0
+
+# Генерация контента
+openai==1.10.0
+anthropic==0.18.1
+
+# Обработка видео
+moviepy==1.0.3
+Pillow==10.2.0
+opencv-python==4.9.0.80
+
+# Генерация голоса
+gtts==2.5.0
+pydub==0.25.1
+
+# Работа с данными
+pandas==2.2.0
+numpy==1.26.3
+
+# Утилиты
+python-dotenv==1.0.0
+pyyaml==6.0.1
+requests==2.31.0
+schedule==1.2.0
+
+# CLI
+click==8.1.7
+rich==13.7.0

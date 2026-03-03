@@ -1,0 +1,68 @@
+# Примеры тем для автоматической генерации контента
+# Используйте этот файл для планирования контента
+
+programming:
+  python:
+    - "Python для начинающих - Установка"
+    - "Python - Переменные и типы данных"
+    - "Python - Условные операторы"
+    - "Python - Циклы for и while"
+    - "Python - Функции"
+    - "Python - Работа с файлами"
+    - "Python - ООП основы"
+
+  javascript:
+    - "JavaScript ES6 - Новые возможности"
+    - "JavaScript - Async/Await"
+    - "JavaScript - Promise"
+    - "JavaScript - Замыкания"
+
+  web:
+    - "HTML5 - Семантическая вёрстка"
+    - "CSS Grid - Полное руководство"
+    - "Flexbox - Макеты за 10 минут"
+    - "Адаптивный дизайн - Best Practices"
+
+reviews:
+  tech:
+    - "Обзор Python 3.12 - Новые возможности"
+    - "Лучшие IDE для Python в 2024"
+    - "ТОП-5 библиотек для Data Science"
+    - "Сравнение Django vs Flask vs FastAPI"
+
+  tools:
+    - "VS Code - Лучшие расширения 2024"
+    - "Git - Полное руководство"
+    - "Docker для начинающих"
+
+tutorials:
+  projects:
+    - "Создаём Telegram бота на Python"
+    - "Web scraping с BeautifulSoup"
+    - "REST API с FastAPI за 20 минут"
+    - "Автоматизация с Selenium"
+    - "Парсер сайтов на Python"
+
+  data_science:
+    - "Pandas - Анализ данных"
+    - "Matplotlib - Визуализация данных"
+    - "NumPy - Научные вычисления"
+    - "Машинное обучение с Scikit-learn"
+
+news:
+  tech:
+    - "Новости Python - Март 2024"
+    - "Тренды веб-разработки 2024"
+    - "AI новости недели"
+
+tips:
+  productivity:
+    - "5 советов для продуктивности программиста"
+    - "Как эффективно учить программирование"
+    - "ТОП-10 ошибок начинающих"
+    - "Clean Code - Лучшие практики"
+
+  career:
+    - "Как стать Python разработчиком"
+    - "Подготовка к собеседованию"
+    - "Зарплаты программистов в 2024"
